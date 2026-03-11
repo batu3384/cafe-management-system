@@ -1,0 +1,28 @@
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment
+.env
+.env.*
+.env.local
+
+# Node.js (if ever added)
+node_modules/
+npm-debug.log*
+
+# Python (if ever added)
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Build outputs
+dist/
+build/
